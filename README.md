@@ -31,14 +31,13 @@ Experienced in JAVASCRIPT || React || React Native || Vuejs || Nodejs || Python 
 </a>
 
 
+Contact Me: <b>08132961732</b>
 
 🔭 I’m currently working on amazing cool stuff as a remote Backend Developer 
 
 👯 I’m looking to collaborate on Great Projects and Technology Solutions
 
 💬 Ask me any tech related stuff.
-
-Contact Me: <b>08132961732</b>
 
 :yellow_heart: What you Love doing: I love working in a team and Build Interactive Projects :facepunch:
 
